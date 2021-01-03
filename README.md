@@ -12,5 +12,3 @@ https://klaw90.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Kay Law
-
-### ©️2019 Run Buddy, Inc 
